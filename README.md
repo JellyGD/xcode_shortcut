@@ -14,7 +14,9 @@ git clone git@github.com:JellyGD/xcode_shortcut.git
 
 然后重启Xcode即可，Xcode重启后会查找添加的代码片段即可使用。
 
-目前提供几个代码片段：
+-- 
+
+## 目前提供几个代码片段：
 
 快捷代码：`tdd`  
 
@@ -56,6 +58,7 @@ git clone git@github.com:JellyGD/xcode_shortcut.git
 ```
 ---
 快捷代码：`nab` 
+
 描述： BOOL 类型的Property 声明
 
 ```objc
@@ -64,6 +67,7 @@ git clone git@github.com:JellyGD/xcode_shortcut.git
 ```
 ---
 快捷代码：`nc` 
+
 描述： Copy的Property的声明
 
 ```objc
@@ -73,6 +77,7 @@ git clone git@github.com:JellyGD/xcode_shortcut.git
 
 ---
 快捷代码：`na` 
+
 描述： assign的Property声明
 
 ```objc
@@ -83,6 +88,7 @@ git clone git@github.com:JellyGD/xcode_shortcut.git
 
 ---
 快捷代码：`ncb` 
+
 描述： Block 类型的Property 声明
 
 ```objc
@@ -93,6 +99,7 @@ git clone git@github.com:JellyGD/xcode_shortcut.git
 
 ---
 快捷代码：`nw` 
+
 描述： weak 类型的Property 声明
 
 ```objc
@@ -103,6 +110,7 @@ git clone git@github.com:JellyGD/xcode_shortcut.git
 
 ---
 快捷代码：`lg` 
+
 描述：懒加载Getter 
 
 ```objc
